@@ -1,0 +1,1 @@
+# MALAshop_javaDoc
